@@ -1,2 +1,2 @@
 # hello-world
-Hello!
+print("Hello World!")
